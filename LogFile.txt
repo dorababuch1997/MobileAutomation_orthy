@@ -1,0 +1,2 @@
+26 Mar 2023 10:29:04  INFO logger - read properties
+26 Mar 2023 10:29:36  INFO logger - read properties
